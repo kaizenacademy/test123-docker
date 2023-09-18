@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: test
-    image: kaizenacademy/hello123:1.0
+    image: kaizenacademy/test123:1.0
